@@ -1,4 +1,4 @@
-# primeirojogo
+py# primeirojogo
 
 import os
 
